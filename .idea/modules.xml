@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NDKSwing.iml" filepath="$PROJECT_DIR$/NDKSwing.iml" />
+      <module fileurl="file://C:\projects\TestSwig\NDKSwing.iml" filepath="C:\projects\TestSwig\NDKSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSwig.iml" filepath="$PROJECT_DIR$/TestSwig.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\projects\TestSwig\app\app.iml" filepath="C:\projects\TestSwig\app\app.iml" />
     </modules>
   </component>
 </project>
